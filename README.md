@@ -20,7 +20,7 @@ A high-performance load balancer written in Go that supports multiple backend se
 ### Using Go
 
 ```bash
-git clone https://github.com/yourusername/golang-load-balancer.git
+git clone https://github.com/lakshya404stc/go-proxy.git
 cd golang-load-balancer
 go mod download
 go run main.go
